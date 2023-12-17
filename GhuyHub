@@ -1,7 +1,13 @@
+
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "[UPD 6] Click Simulator!", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Vair Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "Vair Hub"})
 
-
+OrionLib:MakeNotification({
+	Name = "Vair Hub",
+	Content = "Vair",
+	Image = "rbxassetid://4483345998",
+	Time = 7
+})
 
 
 
