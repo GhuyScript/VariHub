@@ -1,4 +1,4 @@
-local KeySystemUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/MaGiXxScripter0/keysystemv2api/master/ui/xrer_mstudio45.lua"))()
+
 KeySystemUI.New({
          ApplicationName = "VairHub", -- Your Key System Application Name
          Name = "Vair Hub", -- Your Script name
